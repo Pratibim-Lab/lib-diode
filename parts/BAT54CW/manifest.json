@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT54CW:BAT54CW",
+  "name": "BAT54CW",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT54CW.kicad_sym",
+  "description": "Dual schottky barrier diode, common cathode, SOT-323",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAT54W_SER.pdf",
+  "keywords": "dual schottky diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT54CW/",
+  "part_path": "parts/BAT54CW",
+  "symbol_file": "parts/BAT54CW/BAT54CW.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.563Z"
+}

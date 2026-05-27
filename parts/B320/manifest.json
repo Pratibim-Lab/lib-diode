@@ -1,0 +1,17 @@
+{
+  "id": "Diode/B320:B320",
+  "name": "B320",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/B320.kicad_sym",
+  "description": "20V 3A Schottky Barrier Rectifier Diode, SMC",
+  "datasheet": "http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMC",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/B320/",
+  "part_path": "parts/B320",
+  "symbol_file": "parts/B320/B320.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.408Z"
+}

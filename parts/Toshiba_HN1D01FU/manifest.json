@@ -1,0 +1,17 @@
+{
+  "id": "Diode/Toshiba_HN1D01FU:Toshiba_HN1D01FU",
+  "name": "Toshiba_HN1D01FU",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/Toshiba_HN1D01FU.kicad_sym",
+  "description": "Ultra High Speed Switching Diode Array 2 pair Com A",
+  "datasheet": "http://www.toshiba.com/taec/components2/Datasheet_Sync/200901/DST_HN1D01FU-TDE_EN_1882.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "Rohm_UMP11N",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/Toshiba_HN1D01FU/",
+  "part_path": "parts/Toshiba_HN1D01FU",
+  "symbol_file": "parts/Toshiba_HN1D01FU/Toshiba_HN1D01FU.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.141Z"
+}

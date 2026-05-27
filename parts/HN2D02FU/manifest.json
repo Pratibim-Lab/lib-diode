@@ -1,0 +1,17 @@
+{
+  "id": "Diode/HN2D02FU:HN2D02FU",
+  "name": "HN2D02FU",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/HN2D02FU.kicad_sym",
+  "description": "Ultra high speed switching diode array 3 independent",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/HN2D02FUTW1T1-D.PDF",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BAS16TW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/HN2D02FU/",
+  "part_path": "parts/HN2D02FU",
+  "symbol_file": "parts/HN2D02FU/HN2D02FU.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.129Z"
+}

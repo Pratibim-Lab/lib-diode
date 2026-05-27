@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV70:BAV70",
+  "name": "BAV70",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV70.kicad_sym",
+  "description": "Dual 100V 215mA high-speed switching diodes, common cathode, SOT-23",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV70/",
+  "part_path": "parts/BAV70",
+  "symbol_file": "parts/BAV70/BAV70.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.677Z"
+}

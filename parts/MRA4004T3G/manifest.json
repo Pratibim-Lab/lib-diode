@@ -1,0 +1,17 @@
+{
+  "id": "Diode/MRA4004T3G:MRA4004T3G",
+  "name": "MRA4004T3G",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/MRA4004T3G.kicad_sym",
+  "description": "400V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/MRA4004T3G/",
+  "part_path": "parts/MRA4004T3G",
+  "symbol_file": "parts/MRA4004T3G/MRA4004T3G.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.231Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT42W-V:BAT42W-V",
+  "name": "BAT42W-V",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT42W-V.kicad_sym",
+  "description": "30V 0.2A Small Signal Schottky diode, SOD-123",
+  "datasheet": "http://www.vishay.com/docs/85660/bat42.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SOD-123",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT42W-V/",
+  "part_path": "parts/BAT42W-V",
+  "symbol_file": "parts/BAT42W-V/BAT42W-V.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.499Z"
+}

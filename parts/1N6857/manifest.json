@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N6857:1N6857",
+  "name": "1N6857",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N6857.kicad_sym",
+  "description": "20V 150mA Schottky diode, DO-35",
+  "datasheet": "https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N6857/",
+  "part_path": "parts/1N6857",
+  "symbol_file": "parts/1N6857/1N6857.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.352Z"
+}

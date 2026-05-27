@@ -1,0 +1,17 @@
+{
+  "id": "Diode/B150-E3:B150-E3",
+  "name": "B150-E3",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/B150-E3.kicad_sym",
+  "description": "50V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)",
+  "datasheet": "http://www.vishay.com/docs/88946/b120.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "B120-E3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/B150-E3/",
+  "part_path": "parts/B150-E3",
+  "symbol_file": "parts/B150-E3/B150-E3.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.391Z"
+}

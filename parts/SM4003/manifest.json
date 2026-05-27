@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SM4003:SM4003",
+  "name": "SM4003",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SM4003.kicad_sym",
+  "description": "200V 1A General Purpose Rectifier Diode, MELF",
+  "datasheet": "http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_MELF",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SM4003/",
+  "part_path": "parts/SM4003",
+  "symbol_file": "parts/SM4003/SM4003.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.594Z"
+}

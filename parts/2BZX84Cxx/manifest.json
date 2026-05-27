@@ -1,0 +1,17 @@
+{
+  "id": "Diode/2BZX84Cxx:2BZX84Cxx",
+  "name": "2BZX84Cxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/2BZX84Cxx.kicad_sym",
+  "description": "300mW Double Zener Diode, SOT-23",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf",
+  "keywords": "zener diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/2BZX84Cxx/",
+  "part_path": "parts/2BZX84Cxx",
+  "symbol_file": "parts/2BZX84Cxx/2BZX84Cxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.375Z"
+}

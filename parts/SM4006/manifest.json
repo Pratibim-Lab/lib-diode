@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SM4006:SM4006",
+  "name": "SM4006",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SM4006.kicad_sym",
+  "description": "800V 1A General Purpose Rectifier Diode, MELF",
+  "datasheet": "http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_MELF",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SM4006/",
+  "part_path": "parts/SM4006",
+  "symbol_file": "parts/SM4006/SM4006.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.600Z"
+}

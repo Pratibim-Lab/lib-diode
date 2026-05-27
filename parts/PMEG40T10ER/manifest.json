@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG40T10ER:PMEG40T10ER",
+  "name": "PMEG40T10ER",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG40T10ER.kicad_sym",
+  "description": "40V, 1A low Vf Trench MEGA Schottky barrier rectifier, SOD-123W",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG40T10ER.pdf",
+  "keywords": "forward voltage diode",
+  "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG40T10ER/",
+  "part_path": "parts/PMEG40T10ER",
+  "symbol_file": "parts/PMEG40T10ER/PMEG40T10ER.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.405Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT85:BAT85",
+  "name": "BAT85",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT85.kicad_sym",
+  "description": "30V 0.2A Schottky barrier single diode, DO-35",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAT85.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT85/",
+  "part_path": "parts/BAT85",
+  "symbol_file": "parts/BAT85/BAT85.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.609Z"
+}

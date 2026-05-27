@@ -1,0 +1,17 @@
+{
+  "id": "Diode/ZPDxx:ZPDxx",
+  "name": "ZPDxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/ZPDxx.kicad_sym",
+  "description": "500mW Zener Diode, DO-35",
+  "datasheet": "http://diotec.com/tl_files/diotec/files/pdf/datasheets/zpd1",
+  "keywords": "zener diode",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/ZPDxx/",
+  "part_path": "parts/ZPDxx",
+  "symbol_file": "parts/ZPDxx/ZPDxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.197Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BZX384xxxx:BZX384xxxx",
+  "name": "BZX384xxxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BZX384xxxx.kicad_sym",
+  "description": "300mW Zener Diode, SOD-323",
+  "datasheet": "https://www.vishay.com/docs/85764/bzx384.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_SOD-323",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BZX384xxxx/",
+  "part_path": "parts/BZX384xxxx",
+  "symbol_file": "parts/BZX384xxxx/BZX384xxxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.852Z"
+}

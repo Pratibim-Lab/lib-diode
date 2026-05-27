@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG4005CEJ:PMEG4005CEJ",
+  "name": "PMEG4005CEJ",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG4005CEJ.kicad_sym",
+  "description": "40V, 500mA low Vf MEGA Schottky barrier rectifier, SOD-323F",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG4005CEJ.pdf",
+  "keywords": "forward voltage diode",
+  "footprint": "Diode_SMD:D_SOD-323F",
+  "extends": "PMEG2005EJ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG4005CEJ/",
+  "part_path": "parts/PMEG4005CEJ",
+  "symbol_file": "parts/PMEG4005CEJ/PMEG4005CEJ.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.376Z"
+}

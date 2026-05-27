@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SM5908:SM5908",
+  "name": "SM5908",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SM5908.kicad_sym",
+  "description": "1500W (10/1000 μs) Unidirectional TVS Diode, VRM = 5V (IRM = 300 μA at 25°C), VBR = 6V, 'MDC' marking, SMC",
+  "datasheet": "https://www.st.com/resource/en/datasheet/1n5908.pdf",
+  "keywords": "ESD protection transient voltage-suppressor transil thyrector transorb",
+  "footprint": "Diode_SMD:ST_D_SMC",
+  "extends": "1N5908",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SM5908/",
+  "part_path": "parts/SM5908",
+  "symbol_file": "parts/SM5908/SM5908.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.622Z"
+}

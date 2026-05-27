@@ -1,0 +1,17 @@
+{
+  "id": "Diode/MBR1020VL:MBR1020VL",
+  "name": "MBR1020VL",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/MBR1020VL.kicad_sym",
+  "description": "20V, 1A, 340 mV, Schottky Diode Rectifier, SOD-123F",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/MBR1020VL-D.PDF",
+  "keywords": "forward voltage diode",
+  "footprint": "Diode_SMD:D_SOD-123F",
+  "extends": "PMEG40T10ER",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/MBR1020VL/",
+  "part_path": "parts/MBR1020VL",
+  "symbol_file": "parts/MBR1020VL/MBR1020VL.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.191Z"
+}

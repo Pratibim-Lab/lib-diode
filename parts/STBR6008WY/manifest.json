@@ -1,0 +1,17 @@
+{
+  "id": "Diode/STBR6008WY:STBR6008WY",
+  "name": "STBR6008WY",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/STBR6008WY.kicad_sym",
+  "description": "800V, 60A, General Purpose Rectifier Diode, DO-247",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stbr6008-y.pdf",
+  "keywords": "AEC-Q101",
+  "footprint": "Diode_THT:D_DO-247_Vertical",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/STBR6008WY/",
+  "part_path": "parts/STBR6008WY",
+  "symbol_file": "parts/STBR6008WY/STBR6008WY.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.129Z"
+}

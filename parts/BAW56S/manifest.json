@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAW56S:BAW56S",
+  "name": "BAW56S",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAW56S.kicad_sym",
+  "description": "High Speed Switching Diode Array 2 pair Com A",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAV756S_BAW56_SER.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "Rohm_UMP11N",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAW56S/",
+  "part_path": "parts/BAW56S",
+  "symbol_file": "parts/BAW56S/BAW56S.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.697Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG2010EJ:PMEG2010EJ",
+  "name": "PMEG2010EJ",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG2010EJ.kicad_sym",
+  "description": "20V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG2010EH_EJ_ET.pdf",
+  "keywords": "forward voltage diode",
+  "footprint": "Diode_SMD:D_SOD-323F",
+  "extends": "PMEG2005EJ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG2010EJ/",
+  "part_path": "parts/PMEG2010EJ",
+  "symbol_file": "parts/PMEG2010EJ/PMEG2010EJ.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.335Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C3D06060F:C3D06060F",
+  "name": "C3D06060F",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C3D06060F.kicad_sym",
+  "description": "600V, 6A, SiC Schottky Diode, TO-220F",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/43/C3D06060F.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_THT:TO-220F-2_Vertical",
+  "extends": "C3D02060F",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C3D06060F/",
+  "part_path": "parts/C3D06060F",
+  "symbol_file": "parts/C3D06060F/C3D06060F.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.890Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV70T:BAV70T",
+  "name": "BAV70T",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV70T.kicad_sym",
+  "description": "Dual 100V 150mA high-speed switching diodes, common cathode, SOT-416",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAV70_SER.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-416",
+  "extends": "BAV70",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV70T/",
+  "part_path": "parts/BAV70T",
+  "symbol_file": "parts/BAV70T/BAV70T.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.686Z"
+}

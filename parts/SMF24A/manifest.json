@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SMF24A:SMF24A",
+  "name": "SMF24A",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SMF24A.kicad_sym",
+  "description": "200W unidirectional Transil Transient Voltage Suppressor, 24Vrwm, SMF",
+  "datasheet": "https://www.vishay.com/doc?85881",
+  "keywords": "diode TVS voltage suppressor",
+  "footprint": "Diode_SMD:D_SMF",
+  "extends": "SM6T6V8A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SMF24A/",
+  "part_path": "parts/SMF24A",
+  "symbol_file": "parts/SMF24A/SMF24A.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.953Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SS38:SS38",
+  "name": "SS38",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SS38.kicad_sym",
+  "description": "80V 3A Schottky Diode, SMA",
+  "datasheet": "https://www.microdiode.com/uploadfiles//PDF/SS32-THRU-SS3200-SMA.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "SB120",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SS38/",
+  "part_path": "parts/SS38",
+  "symbol_file": "parts/SS38/SS38.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.124Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/US1B:US1B",
+  "name": "US1B",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/US1B.kicad_sym",
+  "description": "100V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/ds16008.pdf",
+  "keywords": "Ultra Fast",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/US1B/",
+  "part_path": "parts/US1B",
+  "symbol_file": "parts/US1B/US1B.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.161Z"
+}

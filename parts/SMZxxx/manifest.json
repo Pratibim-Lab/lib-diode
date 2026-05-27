@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SMZxxx:SMZxxx",
+  "name": "SMZxxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SMZxxx.kicad_sym",
+  "description": "2000mW Zener Diode, MELF",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/smz1.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_MELF",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SMZxxx/",
+  "part_path": "parts/SMZxxx",
+  "symbol_file": "parts/SMZxxx/SMZxxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.029Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/B250:B250",
+  "name": "B250",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/B250.kicad_sym",
+  "description": "50V 2A Schottky Barrier Rectifier Diode, SMB",
+  "datasheet": "http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMB",
+  "extends": "B220",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/B250/",
+  "part_path": "parts/B250",
+  "symbol_file": "parts/B250/B250.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.404Z"
+}

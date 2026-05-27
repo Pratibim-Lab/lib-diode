@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAS16TW:BAS16TW",
+  "name": "BAS16TW",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAS16TW.kicad_sym",
+  "description": "Fast switching diode array 3 independent",
+  "datasheet": "http://www.diodes.com/datasheets/ds30154.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAS16TW/",
+  "part_path": "parts/BAS16TW",
+  "symbol_file": "parts/BAS16TW/BAS16TW.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.443Z"
+}

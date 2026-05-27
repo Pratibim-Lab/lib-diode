@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BZD27Cxx:BZD27Cxx",
+  "name": "BZD27Cxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BZD27Cxx.kicad_sym",
+  "description": "800mW Zener Diode, 3.6-200V, SMF",
+  "datasheet": "https://www.vishay.com/docs/85153/bzd27series.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_SMF",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BZD27Cxx/",
+  "part_path": "parts/BZD27Cxx",
+  "symbol_file": "parts/BZD27Cxx/BZD27Cxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.709Z"
+}

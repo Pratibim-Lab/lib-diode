@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV17:BAV17",
+  "name": "BAV17",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV17.kicad_sym",
+  "description": "20V 0.25A Small Signal Switching Diode, High Voltage, DO-35",
+  "datasheet": "http://www.vishay.com/docs/85543/bav17.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV17/",
+  "part_path": "parts/BAV17",
+  "symbol_file": "parts/BAV17/BAV17.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.639Z"
+}

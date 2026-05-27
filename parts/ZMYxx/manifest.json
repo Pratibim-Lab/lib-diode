@@ -1,0 +1,17 @@
+{
+  "id": "Diode/ZMYxx:ZMYxx",
+  "name": "ZMYxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/ZMYxx.kicad_sym",
+  "description": "1300mW Zener Diode, MELF",
+  "datasheet": "https://www.vishay.com/docs/85788/zmy3v9.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_MELF",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/ZMYxx/",
+  "part_path": "parts/ZMYxx",
+  "symbol_file": "parts/ZMYxx/ZMYxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.196Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/MBR0520LT:MBR0520LT",
+  "name": "MBR0520LT",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/MBR0520LT.kicad_sym",
+  "description": "20V 0.5A Schottky Power Rectifier Diode, SOD-123",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/MBR0520LT1-D.PDF",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SOD-123",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/MBR0520LT/",
+  "part_path": "parts/MBR0520LT",
+  "symbol_file": "parts/MBR0520LT/MBR0520LT.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.170Z"
+}

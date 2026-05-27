@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1.5SMCxxCA:1.5SMCxxCA",
+  "name": "1.5SMCxxCA",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1.5SMCxxCA.kicad_sym",
+  "description": "1500W bidirectional TVS diode, SMC (DO-201AB)",
+  "datasheet": "https://www.vishay.com/docs/88303/15smc.pdf",
+  "keywords": "transient voltage suppressor TRANSZORB®",
+  "footprint": "Diode_SMD:D_SMC",
+  "extends": "1.5KExxCA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1.5SMCxxCA/",
+  "part_path": "parts/1.5SMCxxCA",
+  "symbol_file": "parts/1.5SMCxxCA/1.5SMCxxCA.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.200Z"
+}

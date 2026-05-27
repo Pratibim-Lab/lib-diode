@@ -1,0 +1,17 @@
+{
+  "id": "Diode/CDBA3100-HF:CDBA3100-HF",
+  "name": "CDBA3100-HF",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/CDBA3100-HF.kicad_sym",
+  "description": "100V 3A Schottky Barrier Rectifier Diode, SMA(DO-214AC)",
+  "datasheet": "https://www.comchiptech.com/admin/files/product/CDBA340-HF%20Thru193640.%20CDBA3100-HF%20RevB.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "B120-E3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/CDBA3100-HF/",
+  "part_path": "parts/CDBA3100-HF",
+  "symbol_file": "parts/CDBA3100-HF/CDBA3100-HF.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.025Z"
+}

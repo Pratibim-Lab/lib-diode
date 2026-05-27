@@ -1,0 +1,17 @@
+{
+  "id": "Diode/ZMDxx:ZMDxx",
+  "name": "ZMDxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/ZMDxx.kicad_sym",
+  "description": "1000mW Zener Diode, MiniMELF",
+  "datasheet": "http://diotec.com/tl_files/diotec/files/pdf/datasheets/zmd1",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_MiniMELF",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/ZMDxx/",
+  "part_path": "parts/ZMDxx",
+  "symbol_file": "parts/ZMDxx/ZMDxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.192Z"
+}

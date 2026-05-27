@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV99S:BAV99S",
+  "name": "BAV99S",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV99S.kicad_sym",
+  "description": "High-speed switching diodes, dual series, SOT-363",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf",
+  "keywords": "Diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV99S/",
+  "part_path": "parts/BAV99S",
+  "symbol_file": "parts/BAV99S/BAV99S.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.694Z"
+}

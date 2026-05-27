@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG4010ET:PMEG4010ET",
+  "name": "PMEG4010ET",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG4010ET.kicad_sym",
+  "description": "40V, 1A very low Vf MEGA Schottky barrier rectifier, SOT-23",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG4010EH_EJ_ET.pdf",
+  "keywords": "forward voltage diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "PMEG2010AET",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG4010ET/",
+  "part_path": "parts/PMEG4010ET",
+  "symbol_file": "parts/PMEG4010ET/PMEG4010ET.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.390Z"
+}

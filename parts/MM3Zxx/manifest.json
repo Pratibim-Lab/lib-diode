@@ -1,0 +1,17 @@
+{
+  "id": "Diode/MM3Zxx:MM3Zxx",
+  "name": "MM3Zxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/MM3Zxx.kicad_sym",
+  "description": "300mW Zener Diode, SOD-323F",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/mm3z2v4.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_SOD-323F",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/MM3Zxx/",
+  "part_path": "parts/MM3Zxx",
+  "symbol_file": "parts/MM3Zxx/MM3Zxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.213Z"
+}

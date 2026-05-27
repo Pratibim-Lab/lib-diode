@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BZV55C12:BZV55C12",
+  "name": "BZV55C12",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BZV55C12.kicad_sym",
+  "description": "12V, 500mW, 5%, Zener diode, MiniMELF",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_MiniMELF",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BZV55C12/",
+  "part_path": "parts/BZV55C12",
+  "symbol_file": "parts/BZV55C12/BZV55C12.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.789Z"
+}

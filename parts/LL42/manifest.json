@@ -1,0 +1,17 @@
+{
+  "id": "Diode/LL42:LL42",
+  "name": "LL42",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/LL42.kicad_sym",
+  "description": "30V 0.2A Small Signal Schottky diode, MiniMELF",
+  "datasheet": "http://www.vishay.com/docs/85672/ll42.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_MiniMELF",
+  "extends": "LL41",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/LL42/",
+  "part_path": "parts/LL42",
+  "symbol_file": "parts/LL42/LL42.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.156Z"
+}

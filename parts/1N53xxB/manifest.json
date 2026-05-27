@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N53xxB:1N53xxB",
+  "name": "1N53xxB",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N53xxB.kicad_sym",
+  "description": "5000mW Zener Diode, DO-201",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/1n5345b.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_THT:D_DO-201_P15.24mm_Horizontal",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N53xxB/",
+  "part_path": "parts/1N53xxB",
+  "symbol_file": "parts/1N53xxB/1N53xxB.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.269Z"
+}

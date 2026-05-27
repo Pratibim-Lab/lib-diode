@@ -1,0 +1,17 @@
+{
+  "id": "Diode/Rohm_UMN1N:Rohm_UMN1N",
+  "name": "Rohm_UMN1N",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/Rohm_UMN1N.kicad_sym",
+  "description": "High-speed switching diodes 2 pair Com K",
+  "datasheet": "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/umn1ntr-e.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/Rohm_UMN1N/",
+  "part_path": "parts/Rohm_UMN1N",
+  "symbol_file": "parts/Rohm_UMN1N/Rohm_UMN1N.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.496Z"
+}

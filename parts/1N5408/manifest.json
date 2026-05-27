@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N5408:1N5408",
+  "name": "1N5408",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N5408.kicad_sym",
+  "description": "1000V 3A General Purpose Rectifier Diode, DO-201AD",
+  "datasheet": "http://www.vishay.com/docs/88516/1n5400.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-201AD_P15.24mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N5408/",
+  "part_path": "parts/1N5408",
+  "symbol_file": "parts/1N5408/1N5408.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.299Z"
+}

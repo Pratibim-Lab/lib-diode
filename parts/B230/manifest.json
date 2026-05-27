@@ -1,0 +1,17 @@
+{
+  "id": "Diode/B230:B230",
+  "name": "B230",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/B230.kicad_sym",
+  "description": "30V 2A Schottky Barrier Rectifier Diode, SMB",
+  "datasheet": "http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMB",
+  "extends": "B220",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/B230/",
+  "part_path": "parts/B230",
+  "symbol_file": "parts/B230/B230.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.399Z"
+}

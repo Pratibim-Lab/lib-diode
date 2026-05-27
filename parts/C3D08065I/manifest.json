@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C3D08065I:C3D08065I",
+  "name": "C3D08065I",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C3D08065I.kicad_sym",
+  "description": "650V, 8A, SiC Schottky Diode, Isolated TO-220",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/47/C3D08065I.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_THT:TO-220-2_Vertical",
+  "extends": "MBR735",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C3D08065I/",
+  "part_path": "parts/C3D08065I",
+  "symbol_file": "parts/C3D08065I/C3D08065I.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.912Z"
+}

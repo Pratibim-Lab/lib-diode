@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C4D05120E:C4D05120E",
+  "name": "C4D05120E",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C4D05120E.kicad_sym",
+  "description": "1200V, 5A, SiC Schottky Diode, TO-252",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/130/C4D05120E.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_SMD:TO-252-2_TabPin1",
+  "extends": "CSD01060E",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C4D05120E/",
+  "part_path": "parts/C4D05120E",
+  "symbol_file": "parts/C4D05120E/C4D05120E.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.963Z"
+}

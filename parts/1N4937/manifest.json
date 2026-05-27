@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N4937:1N4937",
+  "name": "1N4937",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N4937.kicad_sym",
+  "description": "Fast Switching Plastic Rectifier, VRRM 600V, IF(AV) 1.0A, trr 200ns, DO-41",
+  "datasheet": "https://www.vishay.com/docs/88508/1n4933.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal",
+  "extends": "1N4933",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N4937/",
+  "part_path": "parts/1N4937",
+  "symbol_file": "parts/1N4937/1N4937.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.266Z"
+}

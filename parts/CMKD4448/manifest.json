@@ -1,0 +1,17 @@
+{
+  "id": "Diode/CMKD4448:CMKD4448",
+  "name": "CMKD4448",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/CMKD4448.kicad_sym",
+  "description": "High speed switching diode array 3 independent",
+  "datasheet": "http://www.centralsemi.com/PDFs/products/CMKD4448.PDF",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BAS16TW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/CMKD4448/",
+  "part_path": "parts/CMKD4448",
+  "symbol_file": "parts/CMKD4448/CMKD4448.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.046Z"
+}

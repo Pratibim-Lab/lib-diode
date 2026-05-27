@@ -1,0 +1,17 @@
+{
+  "id": "Diode/MMBD4448HTW:MMBD4448HTW",
+  "name": "MMBD4448HTW",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/MMBD4448HTW.kicad_sym",
+  "description": "Fast switching diode array 3 independent",
+  "datasheet": "http://www.diodes.com/datasheets/ds30153.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BAS16TW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/MMBD4448HTW/",
+  "part_path": "parts/MMBD4448HTW",
+  "symbol_file": "parts/MMBD4448HTW/MMBD4448HTW.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.222Z"
+}

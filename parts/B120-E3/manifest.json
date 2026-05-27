@@ -1,0 +1,17 @@
+{
+  "id": "Diode/B120-E3:B120-E3",
+  "name": "B120-E3",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/B120-E3.kicad_sym",
+  "description": "20V 1A Schottky Barrier Rectifier Diode, SMA(DO-214AC)",
+  "datasheet": "http://www.vishay.com/docs/88946/b120.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/B120-E3/",
+  "part_path": "parts/B120-E3",
+  "symbol_file": "parts/B120-E3/B120-E3.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.386Z"
+}

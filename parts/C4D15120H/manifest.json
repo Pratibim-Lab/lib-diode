@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C4D15120H:C4D15120H",
+  "name": "C4D15120H",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C4D15120H.kicad_sym",
+  "description": "1200V, 15A, SiC Schottky Diode, TO-247",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/1190/C4D15120H.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_THT:TO-247-2_Vertical",
+  "extends": "C4D10120H",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C4D15120H/",
+  "part_path": "parts/C4D15120H",
+  "symbol_file": "parts/C4D15120H/C4D15120H.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.990Z"
+}

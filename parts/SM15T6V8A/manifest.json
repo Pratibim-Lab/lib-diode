@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SM15T6V8A:SM15T6V8A",
+  "name": "SM15T6V8A",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SM15T6V8A.kicad_sym",
+  "description": "1500W (10/1000 μs) Unidirectional TVS Diode, VRM = 5.8V (IRM = 500 μA at 25°C), VBR = 6.45 ... 7.14V, 'MDE' marking, SMC",
+  "datasheet": "https://www.st.com/resource/en/datasheet/sm15t36a.pdf",
+  "keywords": "ESD protection transient voltage-suppressor transil thyrector transorb",
+  "footprint": "Diode_SMD:ST_D_SMC",
+  "extends": "SM6T6V8A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SM15T6V8A/",
+  "part_path": "parts/SM15T6V8A",
+  "symbol_file": "parts/SM15T6V8A/SM15T6V8A.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.580Z"
+}

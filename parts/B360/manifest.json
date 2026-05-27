@@ -1,0 +1,17 @@
+{
+  "id": "Diode/B360:B360",
+  "name": "B360",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/B360.kicad_sym",
+  "description": "60V 3A Schottky Barrier Rectifier Diode, SMC",
+  "datasheet": "http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMC",
+  "extends": "B320",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/B360/",
+  "part_path": "parts/B360",
+  "symbol_file": "parts/B360/B360.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.419Z"
+}

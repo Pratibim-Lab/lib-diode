@@ -1,0 +1,17 @@
+{
+  "id": "Diode/ESH2PC:ESH2PC",
+  "name": "ESH2PC",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/ESH2PC.kicad_sym",
+  "description": "150V 2A High Voltage Ultrafast Diode, 25ns reverse recovery time, SMP",
+  "datasheet": "https://www.vishay.com/docs/89016/esh2pb.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SMP_DO-220AA",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/ESH2PC/",
+  "part_path": "parts/ESH2PC",
+  "symbol_file": "parts/ESH2PC/ESH2PC.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.122Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SMAJ400A:SMAJ400A",
+  "name": "SMAJ400A",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SMAJ400A.kicad_sym",
+  "description": "600W unidirectional Transient Voltage Suppressor, 400.0Vr, SMA(DO-214AC)",
+  "datasheet": "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet",
+  "keywords": "unidirectional diode TVS voltage suppressor",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "SM6T6V8A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SMAJ400A/",
+  "part_path": "parts/SMAJ400A",
+  "symbol_file": "parts/SMAJ400A/SMAJ400A.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.827Z"
+}

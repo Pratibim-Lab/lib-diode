@@ -1,0 +1,17 @@
+{
+  "id": "Diode/Fuxinsemi_PDS760:Fuxinsemi_PDS760",
+  "name": "Fuxinsemi_PDS760",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/Fuxinsemi_PDS760.kicad_sym",
+  "description": "60V 10A 0.48Vf Schottky diode, TO-277B",
+  "datasheet": "https://lcsc.com/datasheet/lcsc_datasheet_2411271925_FUXINSEMI-PDS760_C3018534.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:TO-277B",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/Fuxinsemi_PDS760/",
+  "part_path": "parts/Fuxinsemi_PDS760",
+  "symbol_file": "parts/Fuxinsemi_PDS760/Fuxinsemi_PDS760.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.126Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG050T150EPD:PMEG050T150EPD",
+  "name": "PMEG050T150EPD",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG050T150EPD.kicad_sym",
+  "description": "50V, 15A low Vf Trench MEGA Schottky barrier rectifier, SOT-1289",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG050T150EPD.pdf",
+  "keywords": "forward voltage diode",
+  "footprint": "Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289",
+  "extends": "PMEG45A10EPD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG050T150EPD/",
+  "part_path": "parts/PMEG050T150EPD",
+  "symbol_file": "parts/PMEG050T150EPD/PMEG050T150EPD.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.283Z"
+}

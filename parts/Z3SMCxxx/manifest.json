@@ -1,0 +1,17 @@
+{
+  "id": "Diode/Z3SMCxxx:Z3SMCxxx",
+  "name": "Z3SMCxxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/Z3SMCxxx.kicad_sym",
+  "description": "3000mW Zener Diode, SMC(DO-214AB)",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/z3smc1.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_SMC",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/Z3SMCxxx/",
+  "part_path": "parts/Z3SMCxxx",
+  "symbol_file": "parts/Z3SMCxxx/Z3SMCxxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.190Z"
+}

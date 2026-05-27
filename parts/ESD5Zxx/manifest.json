@@ -1,0 +1,17 @@
+{
+  "id": "Diode/ESD5Zxx:ESD5Zxx",
+  "name": "ESD5Zxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/ESD5Zxx.kicad_sym",
+  "description": "ESD Protection Diode, SOD-523",
+  "datasheet": "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf",
+  "keywords": "esd tvs unidirectional diode",
+  "footprint": "Diode_SMD:D_SOD-523",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/ESD5Zxx/",
+  "part_path": "parts/ESD5Zxx",
+  "symbol_file": "parts/ESD5Zxx/ESD5Zxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.117Z"
+}

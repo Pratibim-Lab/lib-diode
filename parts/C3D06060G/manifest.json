@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C3D06060G:C3D06060G",
+  "name": "C3D06060G",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C3D06060G.kicad_sym",
+  "description": "600V, 6A, SiC Schottky Diode, TO-263",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_SMD:TO-263-2_TabPin1",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C3D06060G/",
+  "part_path": "parts/C3D06060G",
+  "symbol_file": "parts/C3D06060G/C3D06060G.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.892Z"
+}

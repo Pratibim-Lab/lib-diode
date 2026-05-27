@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG100V080ELPD:PMEG100V080ELPD",
+  "name": "PMEG100V080ELPD",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG100V080ELPD.kicad_sym",
+  "description": "100V, 8A low leakage current MEGA Schottky barrier rectifier, SOT-1289",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG100V080ELPD.pdf",
+  "keywords": "ir diode",
+  "footprint": "Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289",
+  "extends": "PMEG45A10EPD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG100V080ELPD/",
+  "part_path": "parts/PMEG100V080ELPD",
+  "symbol_file": "parts/PMEG100V080ELPD/PMEG100V080ELPD.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.307Z"
+}

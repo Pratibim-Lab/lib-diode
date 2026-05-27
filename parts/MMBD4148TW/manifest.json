@@ -1,0 +1,17 @@
+{
+  "id": "Diode/MMBD4148TW:MMBD4148TW",
+  "name": "MMBD4148TW",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/MMBD4148TW.kicad_sym",
+  "description": "Fast switching diode array 3 independent",
+  "datasheet": "http://www.diodes.com/datasheets/ds30154.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BAS16TW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/MMBD4148TW/",
+  "part_path": "parts/MMBD4148TW",
+  "symbol_file": "parts/MMBD4148TW/MMBD4148TW.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.217Z"
+}

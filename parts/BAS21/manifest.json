@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAS21:BAS21",
+  "name": "BAS21",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAS21.kicad_sym",
+  "description": "250V, 0.4A, High-speed Switching Diode, SOT-23",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/Ds12004.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "BAS16W",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAS21/",
+  "part_path": "parts/BAS21",
+  "symbol_file": "parts/BAS21/BAS21.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.454Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SMAJ85A:SMAJ85A",
+  "name": "SMAJ85A",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SMAJ85A.kicad_sym",
+  "description": "400W unidirectional Transient Voltage Suppressor, 85.0Vr, SMA(DO-214AC)",
+  "datasheet": "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet",
+  "keywords": "unidirectional diode TVS voltage suppressor",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "SM6T6V8A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SMAJ85A/",
+  "part_path": "parts/SMAJ85A",
+  "symbol_file": "parts/SMAJ85A/SMAJ85A.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.913Z"
+}

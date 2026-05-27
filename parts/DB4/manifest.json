@@ -1,0 +1,17 @@
+{
+  "id": "Diode/DB4:DB4",
+  "name": "DB4",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/DB4.kicad_sym",
+  "description": "34V 2A Bidirectional trigger diode, DO-35",
+  "datasheet": "http://cdn-reichelt.de/documents/datenblatt/A100/DB%203%23st.pdf",
+  "keywords": "AC diode DIAC",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "DB3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/DB4/",
+  "part_path": "parts/DB4",
+  "symbol_file": "parts/DB4/DB4.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.064Z"
+}

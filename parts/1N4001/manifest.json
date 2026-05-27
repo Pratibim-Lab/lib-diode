@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N4001:1N4001",
+  "name": "1N4001",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N4001.kicad_sym",
+  "description": "50V 1A General Purpose Rectifier Diode, DO-41",
+  "datasheet": "http://www.vishay.com/docs/88503/1n4001.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N4001/",
+  "part_path": "parts/1N4001",
+  "symbol_file": "parts/1N4001/1N4001.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.202Z"
+}

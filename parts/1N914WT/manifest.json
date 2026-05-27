@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N914WT:1N914WT",
+  "name": "1N914WT",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N914WT.kicad_sym",
+  "description": "75V 0.15A Fast switching Diode, SOD-523",
+  "datasheet": "http://www.mouser.com/ds/2/149/1N4148WT-461550.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SOD-523",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N914WT/",
+  "part_path": "parts/1N914WT",
+  "symbol_file": "parts/1N914WT/1N914WT.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.371Z"
+}

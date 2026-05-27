@@ -1,0 +1,17 @@
+{
+  "id": "Diode/DSEI2X30-06C:DSEI2X30-06C",
+  "name": "DSEI2X30-06C",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/DSEI2X30-06C.kicad_sym",
+  "description": "600V, 2x 30A, Dual Fast Recovery Epitaxial Diode, trr = 80ns, Ptot = 105W, SOT-227B (minibloc, ISOTOP)",
+  "datasheet": "https://www.littelfuse.com/assetdocs/littelfuse-power-semiconductors-dsei2x30-06c-datasheet?assetguid=6b3b6596-6f30-4608-9e1c-7810fd6f261d",
+  "keywords": "IXYS FRED low-loss power-diode",
+  "footprint": "Package_TO_SOT_THT:SOT-227",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/DSEI2X30-06C/",
+  "part_path": "parts/DSEI2X30-06C",
+  "symbol_file": "parts/DSEI2X30-06C/DSEI2X30-06C.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.072Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV199DW:BAV199DW",
+  "name": "BAV199DW",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV199DW.kicad_sym",
+  "description": "Quad Surface Mount Low Leakage Diode, SOT-363",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/ds30417.pdf",
+  "keywords": "Quad diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BAV99S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV199DW/",
+  "part_path": "parts/BAV199DW",
+  "symbol_file": "parts/BAV199DW/BAV199DW.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.653Z"
+}

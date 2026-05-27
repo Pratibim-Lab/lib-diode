@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG10010ELR:PMEG10010ELR",
+  "name": "PMEG10010ELR",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG10010ELR.kicad_sym",
+  "description": "100V, 1A low leakage current MEGA Schottky barrier rectifier, SOD-123W",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG10010ELR.pdf",
+  "keywords": "ir diode",
+  "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+  "extends": "PMEG40T10ER",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG10010ELR/",
+  "part_path": "parts/PMEG10010ELR",
+  "symbol_file": "parts/PMEG10010ELR/PMEG10010ELR.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.298Z"
+}

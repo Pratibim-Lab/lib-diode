@@ -1,0 +1,17 @@
+{
+  "id": "Diode/B240:B240",
+  "name": "B240",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/B240.kicad_sym",
+  "description": "40V 2A Schottky Barrier Rectifier Diode, SMB",
+  "datasheet": "http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMB",
+  "extends": "B220",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/B240/",
+  "part_path": "parts/B240",
+  "symbol_file": "parts/B240/B240.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.401Z"
+}

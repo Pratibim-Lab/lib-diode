@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SS16:SS16",
+  "name": "SS16",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SS16.kicad_sym",
+  "description": "60V 1A Schottky Diode, SMA",
+  "datasheet": "https://www.vishay.com/docs/88746/ss12.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "SB120",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SS16/",
+  "part_path": "parts/SS16",
+  "symbol_file": "parts/SS16/SS16.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.062Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SS2200:SS2200",
+  "name": "SS2200",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SS2200.kicad_sym",
+  "description": "200V 2A Schottky Diode, SMA",
+  "datasheet": "https://www.microdiode.com/uploadfiles//PDF/SS22-THRU-SS2200-SMA.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "SB120",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SS2200/",
+  "part_path": "parts/SS2200",
+  "symbol_file": "parts/SS2200/SS2200.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.079Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT46:BAT46",
+  "name": "BAT46",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT46.kicad_sym",
+  "description": "100V 0.15A Small Signal Schottky Diode, DO-35",
+  "datasheet": "http://www.vishay.com/docs/85662/bat46.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT46/",
+  "part_path": "parts/BAT46",
+  "symbol_file": "parts/BAT46/BAT46.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.517Z"
+}

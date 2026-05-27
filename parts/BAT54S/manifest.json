@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT54S:BAT54S",
+  "name": "BAT54S",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT54S.kicad_sym",
+  "description": "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/ds11005.pdf",
+  "keywords": "schottky diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT54S/",
+  "part_path": "parts/BAT54S",
+  "symbol_file": "parts/BAT54S/BAT54S.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.574Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SS35:SS35",
+  "name": "SS35",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SS35.kicad_sym",
+  "description": "50V 3A Schottky Diode, SMA",
+  "datasheet": "https://www.vishay.com/docs/88751/ss32.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "SB120",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SS35/",
+  "part_path": "parts/SS35",
+  "symbol_file": "parts/SS35/SS35.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.120Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV99:BAV99",
+  "name": "BAV99",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV99.kicad_sym",
+  "description": "BAV99 High-speed switching diodes, SOT-23",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAV99_SER.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV99/",
+  "part_path": "parts/BAV99",
+  "symbol_file": "parts/BAV99/BAV99.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.692Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/MBR735:MBR735",
+  "name": "MBR735",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/MBR735.kicad_sym",
+  "description": "35V 7.5A Schottky Barrier Rectifier Diode, TO-220",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/MBR735-D.PDF",
+  "keywords": "diode Schottky",
+  "footprint": "Package_TO_SOT_THT:TO-220-2_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/MBR735/",
+  "part_path": "parts/MBR735",
+  "symbol_file": "parts/MBR735/MBR735.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.198Z"
+}

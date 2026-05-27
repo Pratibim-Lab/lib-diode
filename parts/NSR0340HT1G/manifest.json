@@ -1,0 +1,17 @@
+{
+  "id": "Diode/NSR0340HT1G:NSR0340HT1G",
+  "name": "NSR0340HT1G",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/NSR0340HT1G.kicad_sym",
+  "description": "40V 0.25A Schottky Diode, SOD-323",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NSR0340H-D.PDF",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SOD-323",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/NSR0340HT1G/",
+  "part_path": "parts/NSR0340HT1G",
+  "symbol_file": "parts/NSR0340HT1G/NSR0340HT1G.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.251Z"
+}

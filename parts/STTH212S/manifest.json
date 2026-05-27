@@ -1,0 +1,17 @@
+{
+  "id": "Diode/STTH212S:STTH212S",
+  "name": "STTH212S",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/STTH212S.kicad_sym",
+  "description": "1200V 2A High Voltage Ultrafast Diode, SMC",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stth212.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SMC",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/STTH212S/",
+  "part_path": "parts/STTH212S",
+  "symbol_file": "parts/STTH212S/STTH212S.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.136Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAW76:BAW76",
+  "name": "BAW76",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAW76.kicad_sym",
+  "description": "50V 0.3A Small Signal Fast Switching Diode, DO-35",
+  "datasheet": "http://www.vishay.com/docs/85551/baw76.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAW76/",
+  "part_path": "parts/BAW76",
+  "symbol_file": "parts/BAW76/BAW76.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.701Z"
+}

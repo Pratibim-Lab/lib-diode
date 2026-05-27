@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N4148WS:1N4148WS",
+  "name": "1N4148WS",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N4148WS.kicad_sym",
+  "description": "75V 0.15A Fast switching Diode, SOD-323",
+  "datasheet": "https://www.vishay.com/docs/85751/1n4148ws.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SOD-323",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N4148WS/",
+  "part_path": "parts/1N4148WS",
+  "symbol_file": "parts/1N4148WS/1N4148WS.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.228Z"
+}

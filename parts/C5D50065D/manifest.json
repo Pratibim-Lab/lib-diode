@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C5D50065D:C5D50065D",
+  "name": "C5D50065D",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C5D50065D.kicad_sym",
+  "description": "650V, 50A, SiC Schottky Diode, TO-247-3",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/111/C5D50065D.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_THT:TO-247-3_Vertical",
+  "extends": "C3D16060D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C5D50065D/",
+  "part_path": "parts/C5D50065D",
+  "symbol_file": "parts/C5D50065D/C5D50065D.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.017Z"
+}

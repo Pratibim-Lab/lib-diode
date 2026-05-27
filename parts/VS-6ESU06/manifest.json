@@ -1,0 +1,17 @@
+{
+  "id": "Diode/VS-6ESU06:VS-6ESU06",
+  "name": "VS-6ESU06",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/VS-6ESU06.kicad_sym",
+  "description": "600V 6.0A Ultrafast Rectifier, TO-277A",
+  "datasheet": "https://www.vishay.com/docs/94987/vs-6esu06hm3.pdf",
+  "keywords": "diode fred",
+  "footprint": "Package_TO_SOT_SMD:TO-277A",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/VS-6ESU06/",
+  "part_path": "parts/VS-6ESU06",
+  "symbol_file": "parts/VS-6ESU06/VS-6ESU06.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.185Z"
+}

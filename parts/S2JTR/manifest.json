@@ -1,0 +1,17 @@
+{
+  "id": "Diode/S2JTR:S2JTR",
+  "name": "S2JTR",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/S2JTR.kicad_sym",
+  "description": "600V 2A General Purpose Rectifier Diode, SMB",
+  "datasheet": "http://www.smc-diodes.com/propdf/S2A-S2M%20N0562%20REV.A.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SMB",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/S2JTR/",
+  "part_path": "parts/S2JTR",
+  "symbol_file": "parts/S2JTR/S2JTR.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.509Z"
+}

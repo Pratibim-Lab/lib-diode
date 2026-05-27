@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C4D30120D:C4D30120D",
+  "name": "C4D30120D",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C4D30120D.kicad_sym",
+  "description": "1200V, 30A, SiC Schottky Diode, TO-247-3",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/108/C4D30120D.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_THT:TO-247-3_Vertical",
+  "extends": "C3D16060D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C4D30120D/",
+  "part_path": "parts/C4D30120D",
+  "symbol_file": "parts/C4D30120D/C4D30120D.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.005Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT48RL:BAT48RL",
+  "name": "BAT48RL",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT48RL.kicad_sym",
+  "description": "40V 0.35A Small Signal Schottky Diode, DO-35",
+  "datasheet": "www.st.com/resource/en/datasheet/bat48.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT48RL/",
+  "part_path": "parts/BAT48RL",
+  "symbol_file": "parts/BAT48RL/BAT48RL.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.533Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT60A:BAT60A",
+  "name": "BAT60A",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT60A.kicad_sym",
+  "description": "10V 3A High Current Recitifier Schottky Diode, SOD-323",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-BAT60ASERIES-DS-v01_01-en.pdf?fileId=db3a304313d846880113def70c9304a9",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SOD-323",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT60A/",
+  "part_path": "parts/BAT60A",
+  "symbol_file": "parts/BAT60A/BAT60A.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.601Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SS22:SS22",
+  "name": "SS22",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SS22.kicad_sym",
+  "description": "20V 2A Schottky Diode, SMA",
+  "datasheet": "https://www.vishay.com/docs/88748/ss22.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "SB120",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SS22/",
+  "part_path": "parts/SS22",
+  "symbol_file": "parts/SS22/SS22.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.076Z"
+}

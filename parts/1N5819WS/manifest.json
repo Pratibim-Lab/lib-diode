@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N5819WS:1N5819WS",
+  "name": "1N5819WS",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N5819WS.kicad_sym",
+  "description": "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323",
+  "datasheet": "https://datasheet.lcsc.com/lcsc/2204281430_Guangdong-Hottech-1N5819WS_C191023.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SOD-323",
+  "extends": "SB120",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N5819WS/",
+  "part_path": "parts/1N5819WS",
+  "symbol_file": "parts/1N5819WS/1N5819WS.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.326Z"
+}

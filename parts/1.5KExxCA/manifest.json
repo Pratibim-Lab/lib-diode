@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1.5KExxCA:1.5KExxCA",
+  "name": "1.5KExxCA",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1.5KExxCA.kicad_sym",
+  "description": "1500W bidirectional TVS diode, DO-201AE",
+  "datasheet": "https://www.vishay.com/docs/88301/15ke.pdf",
+  "keywords": "transient voltage suppressor TRANSZORB®",
+  "footprint": "Diode_THT:D_DO-201AE_P15.24mm_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1.5KExxCA/",
+  "part_path": "parts/1.5KExxCA",
+  "symbol_file": "parts/1.5KExxCA/1.5KExxCA.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.196Z"
+}

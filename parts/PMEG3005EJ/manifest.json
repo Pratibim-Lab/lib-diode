@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG3005EJ:PMEG3005EJ",
+  "name": "PMEG3005EJ",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG3005EJ.kicad_sym",
+  "description": "30V, 500mA very low Vf MEGA Schottky barrier rectifier, SOD-323F",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEGXX05EH_EJ_SER.pdf",
+  "keywords": "forward voltage diode",
+  "footprint": "Diode_SMD:D_SOD-323F",
+  "extends": "PMEG2005EJ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG3005EJ/",
+  "part_path": "parts/PMEG3005EJ",
+  "symbol_file": "parts/PMEG3005EJ/PMEG3005EJ.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.351Z"
+}

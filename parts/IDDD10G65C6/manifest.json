@@ -1,0 +1,17 @@
+{
+  "id": "Diode/IDDD10G65C6:IDDD10G65C6",
+  "name": "IDDD10G65C6",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/IDDD10G65C6.kicad_sym",
+  "description": "650V, 10A, SiC Schottky Diode, CoolSiC, PG-HDSOP-10-1 (DDPAK)",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-IDDD10G65C6-DS-v02_00-EN.pdf?fileId=5546d462625a528f01628ff848ec1051",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_SMD:Infineon_PG-HDSOP-10-1",
+  "extends": "IDDD04G65C6",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/IDDD10G65C6/",
+  "part_path": "parts/IDDD10G65C6",
+  "symbol_file": "parts/IDDD10G65C6/IDDD10G65C6.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.140Z"
+}

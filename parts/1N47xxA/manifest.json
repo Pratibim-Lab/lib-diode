@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N47xxA:1N47xxA",
+  "name": "1N47xxA",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N47xxA.kicad_sym",
+  "description": "1300mW Silicon planar power Zener diodes, DO-41",
+  "datasheet": "https://www.vishay.com/docs/85816/1n4728a.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N47xxA/",
+  "part_path": "parts/1N47xxA",
+  "symbol_file": "parts/1N47xxA/1N47xxA.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.251Z"
+}

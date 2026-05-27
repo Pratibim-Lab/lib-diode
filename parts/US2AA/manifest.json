@@ -1,0 +1,17 @@
+{
+  "id": "Diode/US2AA:US2AA",
+  "name": "US2AA",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/US2AA.kicad_sym",
+  "description": "50V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/US2AA-D.PDF",
+  "keywords": "Super Fast",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/US2AA/",
+  "part_path": "parts/US2AA",
+  "symbol_file": "parts/US2AA/US2AA.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.172Z"
+}

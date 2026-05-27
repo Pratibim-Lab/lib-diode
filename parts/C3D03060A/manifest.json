@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C3D03060A:C3D03060A",
+  "name": "C3D03060A",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C3D03060A.kicad_sym",
+  "description": "600V, 3A, SiC Schottky Diode, TO-220",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/57/C3D03060A.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_THT:TO-220-2_Vertical",
+  "extends": "MBR735",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C3D03060A/",
+  "part_path": "parts/C3D03060A",
+  "symbol_file": "parts/C3D03060A/C3D03060A.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.866Z"
+}

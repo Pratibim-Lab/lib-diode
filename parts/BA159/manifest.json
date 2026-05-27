@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BA159:BA159",
+  "name": "BA159",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BA159.kicad_sym",
+  "description": "1000V 1A Fast recovery Rectifier Diode, DO-41",
+  "datasheet": "https://www.vishay.com/docs/88536/ba157.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BA159/",
+  "part_path": "parts/BA159",
+  "symbol_file": "parts/BA159/BA159.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.428Z"
+}

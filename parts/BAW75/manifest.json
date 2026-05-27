@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAW75:BAW75",
+  "name": "BAW75",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAW75.kicad_sym",
+  "description": "25V 0.45A Small Signal Switching Diode, DO-35",
+  "datasheet": "http://www.vishay.com/docs/85550/baw75.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAW75/",
+  "part_path": "parts/BAW75",
+  "symbol_file": "parts/BAW75/BAW75.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.699Z"
+}

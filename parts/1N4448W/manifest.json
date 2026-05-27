@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N4448W:1N4448W",
+  "name": "1N4448W",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N4448W.kicad_sym",
+  "description": "100V 0.15A High-speed standard diode, SOD-123",
+  "datasheet": "https://www.vishay.com/docs/85722/1n4448w.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SOD-123",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N4448W/",
+  "part_path": "parts/1N4448W",
+  "symbol_file": "parts/1N4448W/1N4448W.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.243Z"
+}

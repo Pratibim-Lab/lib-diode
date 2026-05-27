@@ -1,0 +1,17 @@
+{
+  "id": "Diode/MBR0530:MBR0530",
+  "name": "MBR0530",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/MBR0530.kicad_sym",
+  "description": "30V 0.5A Schottky Power Rectifier Diode, SOD-123",
+  "datasheet": "http://www.mccsemi.com/up_pdf/MBR0520~MBR0580(SOD123).pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SOD-123",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/MBR0530/",
+  "part_path": "parts/MBR0530",
+  "symbol_file": "parts/MBR0530/MBR0530.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.172Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/UF5405:UF5405",
+  "name": "UF5405",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/UF5405.kicad_sym",
+  "description": "500V 3A Soft Recovery Ultrafast Rectifier Diode, DO-201AD",
+  "datasheet": "http://www.vishay.com/docs/88756/uf5400.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-201AD_P15.24mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/UF5405/",
+  "part_path": "parts/UF5405",
+  "symbol_file": "parts/UF5405/UF5405.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.154Z"
+}

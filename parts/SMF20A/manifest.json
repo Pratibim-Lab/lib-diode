@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SMF20A:SMF20A",
+  "name": "SMF20A",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SMF20A.kicad_sym",
+  "description": "200W unidirectional Transil Transient Voltage Suppressor, 20Vrwm, SMF",
+  "datasheet": "https://www.vishay.com/doc?85881",
+  "keywords": "diode TVS voltage suppressor",
+  "footprint": "Diode_SMD:D_SMF",
+  "extends": "SM6T6V8A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SMF20A/",
+  "part_path": "parts/SMF20A",
+  "symbol_file": "parts/SMF20A/SMF20A.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.947Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAS40-04:BAS40-04",
+  "name": "BAS40-04",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAS40-04.kicad_sym",
+  "description": "40V 0.2A Dual Small Signal Schottky Diodes",
+  "datasheet": "http://www.vishay.com/docs/85701/bas40v.pdf",
+  "keywords": "Schottky, Diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAS40-04/",
+  "part_path": "parts/BAS40-04",
+  "symbol_file": "parts/BAS40-04/BAS40-04.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.459Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N5711UR:1N5711UR",
+  "name": "1N5711UR",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N5711UR.kicad_sym",
+  "description": "70V 33mA Schottky diode, MELF(DO-213AA)",
+  "datasheet": "https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_MELF",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N5711UR/",
+  "part_path": "parts/1N5711UR",
+  "symbol_file": "parts/1N5711UR/1N5711UR.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.306Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PTVS5V0Z1USK:PTVS5V0Z1USK",
+  "name": "PTVS5V0Z1USK",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PTVS5V0Z1USK.kicad_sym",
+  "description": "5V, 1200W TVS unidirectional diode, DSN1608-2",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PTVS5V0Z1USK.pdf",
+  "keywords": "TVS diode",
+  "footprint": "Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PTVS5V0Z1USK/",
+  "part_path": "parts/PTVS5V0Z1USK",
+  "symbol_file": "parts/PTVS5V0Z1USK/PTVS5V0Z1USK.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.480Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/TSM24A:TSM24A",
+  "name": "TSM24A",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/TSM24A.kicad_sym",
+  "description": "2800W unidirectional Transient Voltage Suppressor, 24Vrwm, 30kV Air gap & contact, SOT-23",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tsm24a.pdf",
+  "keywords": "diode TVS voltage suppressor ESD Texas",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/TSM24A/",
+  "part_path": "parts/TSM24A",
+  "symbol_file": "parts/TSM24A/TSM24A.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.142Z"
+}

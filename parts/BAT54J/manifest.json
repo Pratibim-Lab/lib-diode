@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT54J:BAT54J",
+  "name": "BAT54J",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT54J.kicad_sym",
+  "description": "30V 200mA Schottky diode, SOD-323F",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SOD-323F",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT54J/",
+  "part_path": "parts/BAT54J",
+  "symbol_file": "parts/BAT54J/BAT54J.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.568Z"
+}

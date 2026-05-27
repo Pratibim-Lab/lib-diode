@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAS16VY:BAS16VY",
+  "name": "BAS16VY",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAS16VY.kicad_sym",
+  "description": "Fast switching diode array 3 independent",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BAS16TW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAS16VY/",
+  "part_path": "parts/BAS16VY",
+  "symbol_file": "parts/BAS16VY/BAS16VY.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.446Z"
+}

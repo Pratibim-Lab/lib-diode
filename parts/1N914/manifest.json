@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N914:1N914",
+  "name": "1N914",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N914.kicad_sym",
+  "description": "100V 0.3A Small Signal Fast Switching Diode, DO-35",
+  "datasheet": "http://www.vishay.com/docs/85622/1n914.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N914/",
+  "part_path": "parts/1N914",
+  "symbol_file": "parts/1N914/1N914.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.366Z"
+}

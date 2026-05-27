@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C4D10120A:C4D10120A",
+  "name": "C4D10120A",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C4D10120A.kicad_sym",
+  "description": "1200V, 10A, SiC Schottky Diode, TO-220",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/82/C4D10120A.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_THT:TO-220-2_Vertical",
+  "extends": "MBR735",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C4D10120A/",
+  "part_path": "parts/C4D10120A",
+  "symbol_file": "parts/C4D10120A/C4D10120A.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.970Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1SS355VM:1SS355VM",
+  "name": "1SS355VM",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1SS355VM.kicad_sym",
+  "description": "90V 0.1A high speed switching Diode, SOD-323F",
+  "datasheet": "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/1ss355vmte-17-e.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SOD-323F",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1SS355VM/",
+  "part_path": "parts/1SS355VM",
+  "symbol_file": "parts/1SS355VM/1SS355VM.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.373Z"
+}

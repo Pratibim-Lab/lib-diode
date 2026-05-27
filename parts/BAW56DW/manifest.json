@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAW56DW:BAW56DW",
+  "name": "BAW56DW",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAW56DW.kicad_sym",
+  "description": "Switching diode array 2 pair Com A",
+  "datasheet": "http://www.diodes.com/datasheets/ds30146.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "Rohm_UMP11N",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAW56DW/",
+  "part_path": "parts/BAW56DW",
+  "symbol_file": "parts/BAW56DW/BAW56DW.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.696Z"
+}

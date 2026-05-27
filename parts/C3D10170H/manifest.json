@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C3D10170H:C3D10170H",
+  "name": "C3D10170H",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C3D10170H.kicad_sym",
+  "description": "1700V, 10A, SiC Schottky Diode, TO-247",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/96/C3D10170H.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_THT:TO-247-2_Vertical",
+  "extends": "C4D10120H",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C3D10170H/",
+  "part_path": "parts/C3D10170H",
+  "symbol_file": "parts/C3D10170H/C3D10170H.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.925Z"
+}

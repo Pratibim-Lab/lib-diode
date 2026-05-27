@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG3010CEH:PMEG3010CEH",
+  "name": "PMEG3010CEH",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG3010CEH.kicad_sym",
+  "description": "30V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-123F",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG3010CEH_PMEG3010CEJ.pdf",
+  "keywords": "forward voltage diode",
+  "footprint": "Diode_SMD:D_SOD-123F",
+  "extends": "PMEG40T10ER",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG3010CEH/",
+  "part_path": "parts/PMEG3010CEH",
+  "symbol_file": "parts/PMEG3010CEH/PMEG3010CEH.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.354Z"
+}

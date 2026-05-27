@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV303:BAV303",
+  "name": "BAV303",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV303.kicad_sym",
+  "description": "200V 0.25A Switching Diode, High Voltage, MicroMELF",
+  "datasheet": "http://www.vishay.com/docs/85545/bav300.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_MicroMELF",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV303/",
+  "part_path": "parts/BAV303",
+  "symbol_file": "parts/BAV303/BAV303.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.676Z"
+}

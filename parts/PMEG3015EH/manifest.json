@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG3015EH:PMEG3015EH",
+  "name": "PMEG3015EH",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG3015EH.kicad_sym",
+  "description": "30V, 1.5A ultra low Vf MEGA Schottky barrier rectifier, SOD-123F",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG3015EH_EJ.pdf",
+  "keywords": "forward voltage diode",
+  "footprint": "Diode_SMD:D_SOD-123F",
+  "extends": "PMEG40T10ER",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG3015EH/",
+  "part_path": "parts/PMEG3015EH",
+  "symbol_file": "parts/PMEG3015EH/PMEG3015EH.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.364Z"
+}

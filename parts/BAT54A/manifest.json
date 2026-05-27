@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT54A:BAT54A",
+  "name": "BAT54A",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT54A.kicad_sym",
+  "description": "schottky barrier diode",
+  "datasheet": "http://www.diodes.com/_files/datasheets/ds11005.pdf",
+  "keywords": "schottky diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT54A/",
+  "part_path": "parts/BAT54A",
+  "symbol_file": "parts/BAT54A/BAT54A.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.539Z"
+}

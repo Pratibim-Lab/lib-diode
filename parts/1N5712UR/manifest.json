@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N5712UR:1N5712UR",
+  "name": "1N5712UR",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N5712UR.kicad_sym",
+  "description": "20V 75mA Schottky diode, MELF(DO-213AA)",
+  "datasheet": "https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_MELF",
+  "extends": "1N5711UR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N5712UR/",
+  "part_path": "parts/1N5712UR",
+  "symbol_file": "parts/1N5712UR/1N5712UR.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.312Z"
+}

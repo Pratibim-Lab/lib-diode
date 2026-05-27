@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SB160:SB160",
+  "name": "SB160",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SB160.kicad_sym",
+  "description": "60V 1A Schottky Barrier Rectifier Diode, DO-41",
+  "datasheet": "http://www.diodes.com/_files/datasheets/ds23022.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal",
+  "extends": "SB120",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SB160/",
+  "part_path": "parts/SB160",
+  "symbol_file": "parts/SB160/SB160.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.549Z"
+}

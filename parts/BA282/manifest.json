@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BA282:BA282",
+  "name": "BA282",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BA282.kicad_sym",
+  "description": "35V 0.1A Band Switching Diode, DO-35",
+  "datasheet": "http://docs-europe.electrocomponents.com/webdocs/1304/0900766b813040d6.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BA282/",
+  "part_path": "parts/BA282",
+  "symbol_file": "parts/BA282/BA282.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.434Z"
+}

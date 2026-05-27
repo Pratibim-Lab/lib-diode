@@ -1,0 +1,17 @@
+{
+  "id": "Diode/CD4148W:CD4148W",
+  "name": "CD4148W",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/CD4148W.kicad_sym",
+  "description": "75V 0.15A Switching Diode, 0805",
+  "datasheet": "https://www.dccomponents.com/upload/product/original/623524775088.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_0805_2012Metric",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/CD4148W/",
+  "part_path": "parts/CD4148W",
+  "symbol_file": "parts/CD4148W/CD4148W.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.021Z"
+}

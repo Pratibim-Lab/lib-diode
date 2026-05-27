@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SD103ATW:SD103ATW",
+  "name": "SD103ATW",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SD103ATW.kicad_sym",
+  "description": "Schottky Barrier Diode Array, SOT-363",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/ds30374.pdf",
+  "keywords": "schottky barrier diode array",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SD103ATW/",
+  "part_path": "parts/SD103ATW",
+  "symbol_file": "parts/SD103ATW/SD103ATW.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.565Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SD12C-01F:SD12C-01F",
+  "name": "SD12C-01F",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SD12C-01F.kicad_sym",
+  "description": "12V, 450W Discrete Bidirectional TVS Diode, SOD-323",
+  "datasheet": "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_c_datasheet.pdf.pdf",
+  "keywords": "transient voltage suppressor thyrector transil",
+  "footprint": "Diode_SMD:D_SOD-323",
+  "extends": "SD05C-01F",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SD12C-01F/",
+  "part_path": "parts/SD12C-01F",
+  "symbol_file": "parts/SD12C-01F/SD12C-01F.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.566Z"
+}

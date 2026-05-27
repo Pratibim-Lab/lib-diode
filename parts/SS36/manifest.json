@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SS36:SS36",
+  "name": "SS36",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SS36.kicad_sym",
+  "description": "60V 3A Schottky Diode, SMA",
+  "datasheet": "https://www.vishay.com/docs/88751/ss32.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "SB120",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SS36/",
+  "part_path": "parts/SS36",
+  "symbol_file": "parts/SS36/SS36.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.122Z"
+}

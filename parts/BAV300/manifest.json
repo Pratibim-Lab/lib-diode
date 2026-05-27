@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV300:BAV300",
+  "name": "BAV300",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV300.kicad_sym",
+  "description": "50V 0.25A Switching Diode, High Voltage, MicroMELF",
+  "datasheet": "http://www.vishay.com/docs/85545/bav300.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_MicroMELF",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV300/",
+  "part_path": "parts/BAV300",
+  "symbol_file": "parts/BAV300/BAV300.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.664Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/CDBU40-HF:CDBU40-HF",
+  "name": "CDBU40-HF",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/CDBU40-HF.kicad_sym",
+  "description": "40V 200mA Schottky Barrier Rectifier Diode, 0603",
+  "datasheet": "https://www.comchiptech.com/admin/files/product/QW-G1012-CDBU40-HF-RevA321692.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_0603_1608Metric",
+  "extends": "B120-E3",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/CDBU40-HF/",
+  "part_path": "parts/CDBU40-HF",
+  "symbol_file": "parts/CDBU40-HF/CDBU40-HF.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.035Z"
+}

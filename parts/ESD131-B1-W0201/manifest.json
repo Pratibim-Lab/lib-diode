@@ -1,0 +1,17 @@
+{
+  "id": "Diode/ESD131-B1-W0201:ESD131-B1-W0201",
+  "name": "ESD131-B1-W0201",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/ESD131-B1-W0201.kicad_sym",
+  "description": "Bidirectional ESD protection diode, ±5.5Vrwm, 0.23pF, SG-WLL-2-3",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-ESD131-B1-W0201-DataSheet-v02_00-EN.pdf?fileId=5546d4625cc9456a015ce94850964889",
+  "keywords": "diode TVS ESD",
+  "footprint": "Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm",
+  "extends": "ESD9B5.0ST5G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/ESD131-B1-W0201/",
+  "part_path": "parts/ESD131-B1-W0201",
+  "symbol_file": "parts/ESD131-B1-W0201/ESD131-B1-W0201.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.115Z"
+}

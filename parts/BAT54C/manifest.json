@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT54C:BAT54C",
+  "name": "BAT54C",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT54C.kicad_sym",
+  "description": "dual schottky barrier diode, common cathode",
+  "datasheet": "http://www.diodes.com/_files/datasheets/ds11005.pdf",
+  "keywords": "schottky diode common cathode",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT54C/",
+  "part_path": "parts/BAT54C",
+  "symbol_file": "parts/BAT54C/BAT54C.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.556Z"
+}

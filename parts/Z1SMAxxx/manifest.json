@@ -1,0 +1,17 @@
+{
+  "id": "Diode/Z1SMAxxx:Z1SMAxxx",
+  "name": "Z1SMAxxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/Z1SMAxxx.kicad_sym",
+  "description": "1000mW Zener Diode, SMA(DO-214AC)",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/z1sma1.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/Z1SMAxxx/",
+  "part_path": "parts/Z1SMAxxx",
+  "symbol_file": "parts/Z1SMAxxx/Z1SMAxxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.187Z"
+}

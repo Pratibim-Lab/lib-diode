@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV16W:BAV16W",
+  "name": "BAV16W",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV16W.kicad_sym",
+  "description": "75V 0.15A Fast Switching Diode, SOD-123",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/ds30086.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SOD-123",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV16W/",
+  "part_path": "parts/BAV16W",
+  "symbol_file": "parts/BAV16W/BAV16W.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.636Z"
+}

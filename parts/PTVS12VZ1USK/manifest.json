@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PTVS12VZ1USK:PTVS12VZ1USK",
+  "name": "PTVS12VZ1USK",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PTVS12VZ1USK.kicad_sym",
+  "description": "12V, 1900W TVS unidirectional diode, DSN1608-2",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PTVS12VZ1USK.pdf",
+  "keywords": "TVS diode",
+  "footprint": "Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PTVS12VZ1USK/",
+  "part_path": "parts/PTVS12VZ1USK",
+  "symbol_file": "parts/PTVS12VZ1USK/PTVS12VZ1USK.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.454Z"
+}

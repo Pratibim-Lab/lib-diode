@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG6030EP:PMEG6030EP",
+  "name": "PMEG6030EP",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG6030EP.kicad_sym",
+  "description": "60V, 3A low Vf MEGA Schottky barrier rectifier, SOD-128",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG6030EP.pdf",
+  "keywords": "forward voltage diode",
+  "footprint": "Diode_SMD:D_SOD-128",
+  "extends": "PMEG4050EP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG6030EP/",
+  "part_path": "parts/PMEG6030EP",
+  "symbol_file": "parts/PMEG6030EP/PMEG6030EP.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.441Z"
+}

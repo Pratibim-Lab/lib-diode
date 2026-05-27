@@ -1,0 +1,17 @@
+{
+  "id": "Diode/CDSV6-4148-G:CDSV6-4148-G",
+  "name": "CDSV6-4148-G",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/CDSV6-4148-G.kicad_sym",
+  "description": "Fast switching diode array 3 independent",
+  "datasheet": "http://www.comchiptech.com/cms/UserFiles/CDSV6-16-G,4148-G%20RevA272279.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BAS16TW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/CDSV6-4148-G/",
+  "part_path": "parts/CDSV6-4148-G",
+  "symbol_file": "parts/CDSV6-4148-G/CDSV6-4148-G.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.037Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SM5060:SM5060",
+  "name": "SM5060",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SM5060.kicad_sym",
+  "description": "Standard Recovery SMD Rectifier Diodes, IFAV = 2A, IFSM = 50/55A (50/60Hz), trr = 1500ns, VRRM = 400V, DO-213AB (MELF)",
+  "datasheet": "https://diotec.com/request/datasheet/sm5059.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_MELF",
+  "extends": "SM5059",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SM5060/",
+  "part_path": "parts/SM5060",
+  "symbol_file": "parts/SM5060/SM5060.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.605Z"
+}

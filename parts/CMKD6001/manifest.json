@@ -1,0 +1,17 @@
+{
+  "id": "Diode/CMKD6001:CMKD6001",
+  "name": "CMKD6001",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/CMKD6001.kicad_sym",
+  "description": "Ultra low leakage switching diode array 3 independent",
+  "datasheet": "http://www.centralsemi.com/PDFs/products/CMKD6001.PDF",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BAS16TW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/CMKD6001/",
+  "part_path": "parts/CMKD6001",
+  "symbol_file": "parts/CMKD6001/CMKD6001.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.048Z"
+}

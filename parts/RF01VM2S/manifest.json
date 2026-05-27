@@ -1,0 +1,17 @@
+{
+  "id": "Diode/RF01VM2S:RF01VM2S",
+  "name": "RF01VM2S",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/RF01VM2S.kicad_sym",
+  "description": "250 V, 100 mA, Super Fast Recovery Diode, SOD-323",
+  "datasheet": "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/fast_recovery/rf01vm2s.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SOD-323",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/RF01VM2S/",
+  "part_path": "parts/RF01VM2S",
+  "symbol_file": "parts/RF01VM2S/RF01VM2S.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.492Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAY93:BAY93",
+  "name": "BAY93",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAY93.kicad_sym",
+  "description": "20V 0.115A Very Fast Switching Diode, DO-35",
+  "datasheet": "https://cdn-reichelt.de/documents/datenblatt/A400/BAY93_TFK.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAY93/",
+  "part_path": "parts/BAY93",
+  "symbol_file": "parts/BAY93/BAY93.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.703Z"
+}

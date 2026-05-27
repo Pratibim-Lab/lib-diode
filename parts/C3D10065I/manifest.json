@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C3D10065I:C3D10065I",
+  "name": "C3D10065I",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C3D10065I.kicad_sym",
+  "description": "650V, 10A, SiC Schottky Diode, Isolated TO-220",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/49/C3D10065I.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_THT:TO-220-2_Vertical",
+  "extends": "MBR735",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C3D10065I/",
+  "part_path": "parts/C3D10065I",
+  "symbol_file": "parts/C3D10065I/C3D10065I.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.923Z"
+}

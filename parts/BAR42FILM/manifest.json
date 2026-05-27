@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAR42FILM:BAR42FILM",
+  "name": "BAR42FILM",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAR42FILM.kicad_sym",
+  "description": "30V 0.1A Small signal Schottky diode, SOT-23",
+  "datasheet": "www.st.com/resource/en/datasheet/bar42.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAR42FILM/",
+  "part_path": "parts/BAR42FILM",
+  "symbol_file": "parts/BAR42FILM/BAR42FILM.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.439Z"
+}

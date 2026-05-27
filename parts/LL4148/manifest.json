@@ -1,0 +1,17 @@
+{
+  "id": "Diode/LL4148:LL4148",
+  "name": "LL4148",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/LL4148.kicad_sym",
+  "description": "100V 0.15A standard switching diode, MiniMELF",
+  "datasheet": "http://www.vishay.com/docs/85557/ll4148.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_MiniMELF",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/LL4148/",
+  "part_path": "parts/LL4148",
+  "symbol_file": "parts/LL4148/LL4148.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.153Z"
+}

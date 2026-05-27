@@ -1,0 +1,17 @@
+{
+  "id": "Diode/LL41:LL41",
+  "name": "LL41",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/LL41.kicad_sym",
+  "description": "100V 0.1A Small Signal Schottky diode, MiniMELF",
+  "datasheet": "http://www.vishay.com/docs/85659/bat41.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_MiniMELF",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/LL41/",
+  "part_path": "parts/LL41",
+  "symbol_file": "parts/LL41/LL41.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.151Z"
+}

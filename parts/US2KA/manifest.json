@@ -1,0 +1,17 @@
+{
+  "id": "Diode/US2KA:US2KA",
+  "name": "US2KA",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/US2KA.kicad_sym",
+  "description": "800V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/US2AA-D.PDF",
+  "keywords": "Super Fast",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/US2KA/",
+  "part_path": "parts/US2KA",
+  "symbol_file": "parts/US2KA/US2KA.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.181Z"
+}

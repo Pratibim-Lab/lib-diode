@@ -1,0 +1,17 @@
+{
+  "id": "Diode/ACDSV6-4448TI-G:ACDSV6-4448TI-G",
+  "name": "ACDSV6-4448TI-G",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/ACDSV6-4448TI-G.kicad_sym",
+  "description": "Small signal switching diode array 3 independent",
+  "datasheet": "http://www.comchiptech.com/cms/UserFiles/ACDSV6-4448TI-G%20RevA285610.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "BAS16TW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/ACDSV6-4448TI-G/",
+  "part_path": "parts/ACDSV6-4448TI-G",
+  "symbol_file": "parts/ACDSV6-4448TI-G/ACDSV6-4448TI-G.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.382Z"
+}

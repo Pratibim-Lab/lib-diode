@@ -1,0 +1,17 @@
+{
+  "id": "Diode/DZ2S200X0L:DZ2S200X0L",
+  "name": "DZ2S200X0L",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/DZ2S200X0L.kicad_sym",
+  "description": "150mW Silicon Planar Zener Diode, 20V, SOD-523",
+  "datasheet": "https://industrial.panasonic.com/content/data/SC/ds/ds4/DZ2S20000L_E.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_SOD-523",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/DZ2S200X0L/",
+  "part_path": "parts/DZ2S200X0L",
+  "symbol_file": "parts/DZ2S200X0L/DZ2S200X0L.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.113Z"
+}

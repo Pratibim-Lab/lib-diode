@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N4149:1N4149",
+  "name": "1N4149",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N4149.kicad_sym",
+  "description": "75V Vrm 0.5A Ifsm standard switching diode, DO-35",
+  "datasheet": "http://www.microsemi.com/document-portal/doc_view/11580-lds-0239",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N4149/",
+  "part_path": "parts/1N4149",
+  "symbol_file": "parts/1N4149/1N4149.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.238Z"
+}

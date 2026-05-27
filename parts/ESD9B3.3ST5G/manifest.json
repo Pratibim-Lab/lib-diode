@@ -1,0 +1,17 @@
+{
+  "id": "Diode/ESD9B3.3ST5G:ESD9B3.3ST5G",
+  "name": "ESD9B3.3ST5G",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/ESD9B3.3ST5G.kicad_sym",
+  "description": "ESD protection diode, 3.3Vrwm, SOD-923",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF",
+  "keywords": "diode TVS ESD",
+  "footprint": "Diode_SMD:D_SOD-923",
+  "extends": "ESD9B5.0ST5G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/ESD9B3.3ST5G/",
+  "part_path": "parts/ESD9B3.3ST5G",
+  "symbol_file": "parts/ESD9B3.3ST5G/ESD9B3.3ST5G.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.118Z"
+}

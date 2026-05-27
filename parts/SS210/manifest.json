@@ -1,0 +1,17 @@
+{
+  "id": "Diode/SS210:SS210",
+  "name": "SS210",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/SS210.kicad_sym",
+  "description": "100V 2A Schottky Diode, SMA",
+  "datasheet": "https://www.wontop.com/uploadfiles/56/sort_excel/pdf/ss22.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "SB120",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/SS210/",
+  "part_path": "parts/SS210",
+  "symbol_file": "parts/SS210/SS210.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:00.068Z"
+}

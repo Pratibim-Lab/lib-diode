@@ -1,0 +1,17 @@
+{
+  "id": "Diode/PMEG6010CEJ:PMEG6010CEJ",
+  "name": "PMEG6010CEJ",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/PMEG6010CEJ.kicad_sym",
+  "description": "60V, 1A very low Vf MEGA Schottky barrier rectifier, SOD-323F",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG6010CEH_PMEG6010CEJ.pdf",
+  "keywords": "forward voltage diode",
+  "footprint": "Diode_SMD:D_SOD-323F",
+  "extends": "PMEG2005EJ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/PMEG6010CEJ/",
+  "part_path": "parts/PMEG6010CEJ",
+  "symbol_file": "parts/PMEG6010CEJ/PMEG6010CEJ.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.425Z"
+}

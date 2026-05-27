@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT42:BAT42",
+  "name": "BAT42",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT42.kicad_sym",
+  "description": "30V 0.2A Small Signal Schottky Diode, DO-35",
+  "datasheet": "http://www.vishay.com/docs/85660/bat42.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT42/",
+  "part_path": "parts/BAT42",
+  "symbol_file": "parts/BAT42/BAT42.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.492Z"
+}

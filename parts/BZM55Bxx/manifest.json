@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BZM55Bxx:BZM55Bxx",
+  "name": "BZM55Bxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BZM55Bxx.kicad_sym",
+  "description": "500mW Zener Diode, 2%, MicroMELF",
+  "datasheet": "http://www.vishay.com/docs/85597/bzm55.pdf",
+  "keywords": "zener diode",
+  "footprint": "Diode_SMD:D_MicroMELF",
+  "extends": "ZPYxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BZM55Bxx/",
+  "part_path": "parts/BZM55Bxx",
+  "symbol_file": "parts/BZM55Bxx/BZM55Bxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.711Z"
+}

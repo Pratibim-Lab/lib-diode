@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N4148W:1N4148W",
+  "name": "1N4148W",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N4148W.kicad_sym",
+  "description": "75V 0.15A Fast Switching Diode, SOD-123",
+  "datasheet": "https://www.vishay.com/docs/85748/1n4148w.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_SMD:D_SOD-123",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N4148W/",
+  "part_path": "parts/1N4148W",
+  "symbol_file": "parts/1N4148W/1N4148W.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.226Z"
+}

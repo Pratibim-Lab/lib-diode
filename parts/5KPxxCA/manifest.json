@@ -1,0 +1,17 @@
+{
+  "id": "Diode/5KPxxCA:5KPxxCA",
+  "name": "5KPxxCA",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/5KPxxCA.kicad_sym",
+  "description": "5000W bidirectional Transient Voltage Suppressor, P-600",
+  "datasheet": "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf",
+  "keywords": "diode TVS voltage suppressor",
+  "footprint": "Diode_THT:D_P600_R-6_P20.00mm_Horizontal",
+  "extends": "1.5KExxCA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/5KPxxCA/",
+  "part_path": "parts/5KPxxCA",
+  "symbol_file": "parts/5KPxxCA/5KPxxCA.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.380Z"
+}

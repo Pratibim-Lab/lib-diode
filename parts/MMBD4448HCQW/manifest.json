@@ -1,0 +1,17 @@
+{
+  "id": "Diode/MMBD4448HCQW:MMBD4448HCQW",
+  "name": "MMBD4448HCQW",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/MMBD4448HCQW.kicad_sym",
+  "description": "Quad Switching Diode Array Common Cathode",
+  "datasheet": "http://www.diodes.com/datasheets/ds30153.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "Rohm_UMN1N",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/MMBD4448HCQW/",
+  "part_path": "parts/MMBD4448HCQW",
+  "symbol_file": "parts/MMBD4448HCQW/MMBD4448HCQW.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.220Z"
+}

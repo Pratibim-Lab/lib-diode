@@ -1,0 +1,17 @@
+{
+  "id": "Diode/MMBZxx:MMBZxx",
+  "name": "MMBZxx",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/MMBZxx.kicad_sym",
+  "description": "Double Zener Diode, Common Anode, 225mW, SOT-23",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/MMBZ5V6ALT1-D.PDF",
+  "keywords": "dual zener diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-23",
+  "extends": "2BZX84Cxx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/MMBZxx/",
+  "part_path": "parts/MMBZxx",
+  "symbol_file": "parts/MMBZxx/MMBZxx.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.224Z"
+}

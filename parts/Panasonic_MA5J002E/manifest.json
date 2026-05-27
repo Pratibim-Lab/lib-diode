@@ -1,0 +1,17 @@
+{
+  "id": "Diode/Panasonic_MA5J002E:Panasonic_MA5J002E",
+  "name": "Panasonic_MA5J002E",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/Panasonic_MA5J002E.kicad_sym",
+  "description": "Quad Ultra high Speed Switching Diode Array Com K",
+  "datasheet": "http://www.semicon.panasonic.co.jp/ds4/MA5J002E_BED_discon.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+  "extends": "Rohm_UMN1N",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/Panasonic_MA5J002E/",
+  "part_path": "parts/Panasonic_MA5J002E",
+  "symbol_file": "parts/Panasonic_MA5J002E/Panasonic_MA5J002E.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.254Z"
+}

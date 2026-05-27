@@ -1,0 +1,17 @@
+{
+  "id": "Diode/LL43:LL43",
+  "name": "LL43",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/LL43.kicad_sym",
+  "description": "30V 0.2A Small Signal Schottky diode, MiniMELF",
+  "datasheet": "http://www.vishay.com/docs/85672/ll42.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_MiniMELF",
+  "extends": "LL41",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/LL43/",
+  "part_path": "parts/LL43",
+  "symbol_file": "parts/LL43/LL43.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.159Z"
+}

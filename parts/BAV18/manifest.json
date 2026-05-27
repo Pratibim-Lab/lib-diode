@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV18:BAV18",
+  "name": "BAV18",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV18.kicad_sym",
+  "description": "50V 0.25A Small Signal Switching Diode, High Voltage, DO-35",
+  "datasheet": "http://www.vishay.com/docs/85543/bav17.pdf",
+  "keywords": "diode",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV18/",
+  "part_path": "parts/BAV18",
+  "symbol_file": "parts/BAV18/BAV18.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.644Z"
+}

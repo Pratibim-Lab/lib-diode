@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT48JFILM:BAT48JFILM",
+  "name": "BAT48JFILM",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT48JFILM.kicad_sym",
+  "description": "40V 0.35A Small Signal Schottky Diode, SOD-323",
+  "datasheet": "www.st.com/resource/en/datasheet/bat48.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_SMD:D_SOD-323",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT48JFILM/",
+  "part_path": "parts/BAT48JFILM",
+  "symbol_file": "parts/BAT48JFILM/BAT48JFILM.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.524Z"
+}

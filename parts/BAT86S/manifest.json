@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAT86S:BAT86S",
+  "name": "BAT86S",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAT86S.kicad_sym",
+  "description": "50V 0.2A Small Signal Schottky Diode, DO-35",
+  "datasheet": "http://www.vishay.com/docs/85514/bat86s.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "1N6263",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAT86S/",
+  "part_path": "parts/BAT86S",
+  "symbol_file": "parts/BAT86S/BAT86S.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.626Z"
+}

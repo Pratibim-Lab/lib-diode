@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAS16W:BAS16W",
+  "name": "BAS16W",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAS16W.kicad_sym",
+  "description": "100V, 0.175A, High-speed Switching Diode, SOT-323",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAS16_SER.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAS16W/",
+  "part_path": "parts/BAS16W",
+  "symbol_file": "parts/BAS16W/BAS16W.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.447Z"
+}

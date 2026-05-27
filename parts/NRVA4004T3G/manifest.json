@@ -1,0 +1,17 @@
+{
+  "id": "Diode/NRVA4004T3G:NRVA4004T3G",
+  "name": "NRVA4004T3G",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/NRVA4004T3G.kicad_sym",
+  "description": "400V, 1A, General Purpose Rectifier Diode, SMA(DO-214AC)",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/MRA4003T3-D.PDF",
+  "keywords": "AEC-Q101",
+  "footprint": "Diode_SMD:D_SMA",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/NRVA4004T3G/",
+  "part_path": "parts/NRVA4004T3G",
+  "symbol_file": "parts/NRVA4004T3G/NRVA4004T3G.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:59.241Z"
+}

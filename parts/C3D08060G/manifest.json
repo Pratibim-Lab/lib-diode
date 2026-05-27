@@ -1,0 +1,17 @@
+{
+  "id": "Diode/C3D08060G:C3D08060G",
+  "name": "C3D08060G",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/C3D08060G.kicad_sym",
+  "description": "600V, 8A, SiC Schottky Diode, TO-263",
+  "datasheet": "https://www.wolfspeed.com/media/downloads/141/C3D08060G.pdf",
+  "keywords": "sic diode",
+  "footprint": "Package_TO_SOT_SMD:TO-263-2_TabPin1",
+  "extends": "C3D06060G",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/C3D08060G/",
+  "part_path": "parts/C3D08060G",
+  "symbol_file": "parts/C3D08060G/C3D08060G.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.904Z"
+}

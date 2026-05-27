@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BYV79-150:BYV79-150",
+  "name": "BYV79-150",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BYV79-150.kicad_sym",
+  "description": "150V 14A Ultrafast Rectifier Diode, TO-220",
+  "datasheet": "http://pdf.datasheetcatalog.com/datasheet/philips/BYV79-100.pdf",
+  "keywords": "diode",
+  "footprint": "Package_TO_SOT_THT:TO-220-2_Vertical",
+  "extends": "1N4001",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BYV79-150/",
+  "part_path": "parts/BYV79-150",
+  "symbol_file": "parts/BYV79-150/BYV79-150.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.707Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Diode/1N6263:1N6263",
+  "name": "1N6263",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/1N6263.kicad_sym",
+  "description": "60V 15mA Schottky diode, DO-35",
+  "datasheet": "www.st.com/resource/en/datasheet/1n6263.pdf",
+  "keywords": "diode Schottky",
+  "footprint": "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/1N6263/",
+  "part_path": "parts/1N6263",
+  "symbol_file": "parts/1N6263/1N6263.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.338Z"
+}

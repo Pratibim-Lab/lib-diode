@@ -1,0 +1,17 @@
+{
+  "id": "Diode/BAV756S:BAV756S",
+  "name": "BAV756S",
+  "library": "Diode",
+  "file": "Diode.kicad_symdir/BAV756S.kicad_sym",
+  "description": "High-speed switching diodes, dual common anode/common cathode, SOT-363",
+  "datasheet": "https://assets.nexperia.com/documents/data-sheet/BAV756S_BAW56_SER.pdf",
+  "keywords": "Diode",
+  "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-diode@master/parts/BAV756S/",
+  "part_path": "parts/BAV756S",
+  "symbol_file": "parts/BAV756S/BAV756S.kicad_sym",
+  "source_library": "Diode.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:58.690Z"
+}
